@@ -17,9 +17,9 @@
             "type": "String"
         },
         "clusterName": {
-            "defaultValue": "Cluster",
+            "defaultValue": "",
             "metadata": {
-                "description": "Name of your cluster - Between 3 and 23 characters. Letters and numbers only."
+                "description": "Name of existing cluster."
             },
             "type": "String"
         },
